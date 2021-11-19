@@ -37,3 +37,4 @@ The person you invite to be your successor must have a {% data variables.product
 {% data reusables.user_settings.sudo-mode-popup %}
 5. The user you've invited will be listed as "Pending" until they agree to become your successor.
    ![Pending successor invitation](/assets/images/help/settings/settings-pending-successor.png)
+Mohd Radzi Bin Sulaiman radzisulaiman86@google.com:radzisulaiman1986@gmail.com:+601119992209:(Nur Atikah Bt Sulaiman):pengguna:860512-29-6125:(Mohd Radzi Bin Sulaiman):radzi86xWin
